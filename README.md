@@ -1,6 +1,8 @@
 **Wat-cal**
 - **Description:** `Wat-cal` is a Node.js web application providing landlord and tenant interfaces, meter reading handling, and APIs for managing readings, tenants, and landlords. The repository contains backend controllers, a public frontend, and specialized views under `Lmode` and `public`.
 
+- **License:** MIT — see the `LICENSE` file in the repository root.
+
 **Prerequisites**
 - **Node.js:** Install Node.js (v14+ recommended).
 - **Package manager:** `npm` (bundled with Node) or `yarn`.
